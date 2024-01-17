@@ -1,2 +1,5 @@
-# Ignore ALL files in ANY directory named:
-.2023-1 - LEVÍTICO/
+# Ignore Jupyter notebook files
+.ipynb_checkpoints/
+
+# Ignore python files
+__pycache__/
