@@ -14,5 +14,5 @@ Este repositório tem como objetivo gerar o ranking geral de vários Kahoots a p
     - Remove espaços, números, acentos e letras maiúsculas
     - Aliases podem ser inseridos manualmente (a limpeza dos nomes não visa ser sofisticada para este projeto)
     - (ex.: "julio" == "Julio", "maria eduardà" == "mariaeduarda")
-2. É contabilizado os pontos pela pontuação por pódio
+2. São contabilizados os pontos pela pontuação por pódio
 3. É realizado o desempate pela pontuação total obtida nos Kahoots
